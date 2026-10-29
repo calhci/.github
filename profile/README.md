@@ -1,4 +1,4 @@
-# California Advanced Lab for Human-Computer Interaction**
+## California Advanced Lab for Human-Computer Interaction
 
 Welcome to the GitHub organization for **CALHCI** – a research and development lab dedicated to advancing the field of Human-Computer Interaction (HCI) through the integration of cutting-edge technologies such as affective computing, brain-computer interfaces (BCIs), extended reality (XR), intelligent systems, and robotics.
 
