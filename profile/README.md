@@ -1,8 +1,7 @@
 <img width="1600" height="160" alt="calhci" src="https://github.com/user-attachments/assets/cf1abf00-feb1-4381-9936-5782053d05b0" />
 
 
-# California Advanced Lab for Human-Computer Interaction
-
+# 
 Welcome to the GitHub organization for **CALHCI** – a research and development lab dedicated to advancing the field of Human-Computer Interaction (HCI) through the integration of cutting-edge technologies such as affective computing, brain-computer interfaces (BCIs), extended reality (XR), intelligent systems, and robotics.
 
 
