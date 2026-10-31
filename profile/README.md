@@ -1,4 +1,5 @@
-<img width="1024" height="512" alt="560BE80C-1DAC-4517-B86F-583973EE6911" src="https://github.com/user-attachments/assets/2f0050f8-e8fa-4195-b074-86cbb5f488b4" />
+<img width="1600" height="160" alt="calhci" src="https://github.com/user-attachments/assets/cf1abf00-feb1-4381-9936-5782053d05b0" />
+
 
 # California Advanced Lab for Human-Computer Interaction
 
